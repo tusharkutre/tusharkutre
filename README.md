@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tusharkutre
+- 👋 Hi, I’m Mr.Tushar
 - 👀 I’m interested in Full Stack web-development
 - 🌱 I’m currently learning Front-end development
 - 💞️ I’m looking to collaborate soon
