@@ -2,11 +2,11 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coder" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **React.js,javascript**
+- 🌱 I’m currently learning **React.js | javascript**
 
 - 👯 I’m looking to collaborate on **Open-source projects**
 
-- 💬 Ask me about **React|javascript|Front-end Development**
+- 💬 Ask me about **React | javascript | Front-end Development**
 
 - 📫 How to reach me **tusharkutre21@gmail.com**
 
