@@ -11,7 +11,9 @@
 
 - 💬 Ask me about **React | javascript | Front-end Development**
 
-- 📫 How to reach me **tusharkutre21@gmail.com** | **https://www.linkedin.com/in/tushar-kutre-578983233/**
+- 📫 How to reach me :
+     **tusharkutre21@gmail.com**
+     **https://www.linkedin.com/in/tushar-kutre-578983233/**
 
 - ⚡ Fun fact **I think I'am Innovative**
 
