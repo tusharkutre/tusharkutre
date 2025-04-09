@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Tushar Kutre</h1>
 <h3 align="left">A passionate frontend developer from India</h3>
-<h4>I create responsive modern web applications</h4>
+<h4>I create responsive modern web apps</h4>
 <img align="right" alt="coder" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **React.js | javascript**
